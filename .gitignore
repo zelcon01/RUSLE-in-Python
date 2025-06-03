@@ -1,3 +1,21 @@
 Data/R/rainfall_kriging.tif
 Data/R/r_factor.tif
 .ipynb_checkpoints/RUSLE Notebook-checkpoint.ipynb
+Data/K/k_factor.tif
+Data/K/permeability.tif
+Data/K/structure.tif
+Data/K/STU_EU_S_OC.RDC
+Data/K/STU_EU_S_OC.tif
+Data/K/STU_EU_T_CLAY.RDC
+Data/K/STU_EU_T_CLAY.tif
+Data/K/STU_EU_T_SAND.RDC
+Data/K/STU_EU_T_SILT.RDC
+Data/K/STU_EU_T_SAND.tif
+Data/K/STU_EU_T_SILT.tif
+Data/R/r_factor_clipped.tif
+Data/R/rainfall_gstools.tif
+Data/K/STU_EU_S_OC.rst
+Data/K/STU_EU_T_CLAY.rst
+Data/K/STU_EU_T_SAND.rst
+Data/K/STU_EU_T_SILT.rst
+Data/K/textureUSDA_eu23.tif
