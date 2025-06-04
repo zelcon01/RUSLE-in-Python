@@ -19,3 +19,12 @@ Data/K/STU_EU_T_CLAY.rst
 Data/K/STU_EU_T_SAND.rst
 Data/K/STU_EU_T_SILT.rst
 Data/K/textureUSDA_eu23.tif
+Data/R/r_factor_NI_3035.tif
+Data/R/r_factor_NI_4326.tif
+Data/R/r_factor_NI_epsg27700.tif
+Data/R/r_factor_raw_hadukgrid_uk.tif
+Data/R/r_factor_raw_hadukgrid_uk_27700.tif
+Data/R/r_factor_raw_hadukgrid_uk_4326.tif
+Data/R/rainfall_raw_hadukgrid_uk.tif
+Data/R/rainfall_hadukgrid_uk_1km_ann_202301-202312.nc
+Data/R/rainfall_hadukgrid_uk_1km_ann_202101-202112.nc
