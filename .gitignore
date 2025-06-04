@@ -28,3 +28,8 @@ Data/R/r_factor_raw_hadukgrid_uk_4326.tif
 Data/R/rainfall_raw_hadukgrid_uk.tif
 Data/R/rainfall_hadukgrid_uk_1km_ann_202301-202312.nc
 Data/R/rainfall_hadukgrid_uk_1km_ann_202101-202112.nc
+Data/LS/ni_dtm_metre.tfw
+Data/LS/ni_dtm_metre.tif
+Data/LS/ni_dtm_metre.tif.aux.xml
+Data/LS/ni_dtm_metre.tif.ovr
+Data/LS/OSNI_OpenData_50m_DTM.csv
