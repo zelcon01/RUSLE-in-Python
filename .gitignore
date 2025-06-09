@@ -33,3 +33,7 @@ Data/LS/ni_dtm_metre.tif
 Data/LS/ni_dtm_metre.tif.aux.xml
 Data/LS/ni_dtm_metre.tif.ovr
 Data/LS/OSNI_OpenData_50m_DTM.csv
+flow_acc.tif
+Data/LS/slope_ang.tif
+Data/LS/ni_dtm_filled.tif
+Data/LS/LS.tif
